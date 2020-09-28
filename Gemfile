@@ -32,8 +32,6 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'carrierwave'
 #filter running auto sizing
 gem 'mini_magick', '~> 3.5.0'
-#AWS authentication
-gem 'fog'
 #credentials
 gem 'figaro', '~> 1.0.0'
 
